@@ -1,12 +1,12 @@
 {
-    "name": "svfnix/xcrud",
-    "description": "XCrud/Laravel - crud engine",
-    "keywords": ["PHP","XCrud","Crud"],
+    "name": "tanv1r/xcrud",
+    "description": "XCrud PHP MySQL - crud engine",
+    "keywords": ["PHP","XCrud","MySQL","Crud"],
     "type": "library",
-    "license": "Xcrud License",
+    "license": "MIT License",
     "authors": [
         {
-            "name": "Saeed Farahani"
+            "name": "Tanvir Ahmed Siddique"
         }
     ],
     "require": {
